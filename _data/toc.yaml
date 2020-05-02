@@ -12,6 +12,9 @@ horizontalnav:
 - title: Samples
   path: /samples/
   node: samples
+- title: Something New!
+  path: /
+  node: somethingnew
 
 guides:
 - title: Get Docker
